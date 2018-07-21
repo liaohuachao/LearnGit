@@ -9,13 +9,13 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-Creating a branch is quick.
+creating a branch is quick.
 
 Push readme.txt to PBI1001 branch.
-Add content on PBI1001
+add content on PBI1001
 
-Modify on branch master.
+modify on branch master.
 add branch feature1
 
-Add dev branch.
+add dev branch.
 merge with Fast-Foraw
